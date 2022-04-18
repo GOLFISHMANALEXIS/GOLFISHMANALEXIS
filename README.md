@@ -1,182 +1,62 @@
-[![MC Technology](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/mctechnology17)
+[![MC Technology](src/mctechnology_extendido.GIF)](https://github.com/GOLFISHMANALEXIS/PORTAFOLIO-ALEXIS_V)
 
-<h1 align="center">Hi there, I'm Marcos - MC Technology <img src="./src/wave.gif" width="30px"></h1>
+<h1 align="center">Hola soy Alexis Villegas - ALEXIS_V - GOLFISHMAN <img src="./src/wave.gif" width="30px"></h1>
 
 <table align="right">
 <tr>
 <td>
 
-[<img align="left" alt="MC Technology | YouTube" width="22px" src="./src/youtube.png" />][youtube]
-[<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
 [<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
 [<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
-[<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
+
 
 </td>
 </tr>
 </table>
 
 <details>
-  <summary>:zap: About me!</summary>
+  <summary>🥦: Acerca de mi !</summary>
 
-### 🔬 Bioanalyst Clinico and I am currently studying a Master in Bioinformatic 💻!!
-- 🦾 I love the PowerLifting!
-- 🤓  I’m currently learning everything
-- 👾  I am very curious and that is why you start studying programming
-- 🗒  I am currently very obsected with learning vimscript
+### 🔬 Estudiante de la preparatoria B.U.A.P !!
+- 🦾  Team-JavaScrip
+- 💻  Amooo el Clash Royale!
+- 👾  Soy programador desde hace dos años
+- 🗒   Actualmente estoy muy centrado en la Inteligencia Artificial
 </details>
 
-<br />
+<br>
+<br>
+<br>
 
----
-
-<h3 align="center"><img src="./src/cabeza.GIF" width="30px" height="30px"> Latest Projects</h3>
-
-<tr>
-<td>
-
-[<img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" />][gm]
-
-</td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/gm" target="_blank"><code>GitManager</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    GitManager(gm) git manager with a friendly user interface
-    Compatibility: zsh/bash/fish/powershell and vim/vi/nvim/Gvim/MacVim
-
-  </details> </td>
-</tr>
-<tr>
-<td>
-
-<img align="left" alt="vim-better-header | vim-better-header " width="50px" src="./src/vim-better-header.png" />
-
-</td>
-<img align="right" alt=yomero" width="450px" height="450px" src="./src/pokemon.GIF">
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/vim-better-header" target="_blank"><code>vim-better-header</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    vim-better-header is a better automated template
-
-  </details> </td>
-</tr>
-<tr>
-<td>
-
-[<img align="left" alt="vimtools | VimTools" width="50px" src="./src/vim.png" />][vimtools]
-
-</td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/vimtools" target="_blank"><code>vimtools</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    VimTools is functions and settings
-    that will make it easy for you life
-
-  </details> </td>
-</tr>
-<tr>
-<td>
-
-[<img align="left" alt="uiswitch | UI Glitch" width="50px" src="./src/uiglitch.png" />][uiglitch]
-
-</td>
-<td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiglitch/" target="_blank"><code>UI Glitch</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    UI Glitch is here!!!
-    Give your iPhone a different look with UI Glitch.
-    The UI family by MC Technology! Designed for UI lovers!
-    With UI Glitch you can get an exquisite combination to complement your themes!
-    More than 20 Shades with different degrees of opacity and colors!
-    Compatibility with thousands of themes!  Includes an exclusive animated theme!
-
-  </details> </td>
-</tr>
-<tr>
-<td>
-
-[<img align="left" alt="uiswitches | UI Switches" width="50px" src="./src/uiswitches.png" />][uiswitches]
-
-</td>
-<td> <h4 align="left"> <a href="https://repo.packix.com/package/com.mctechnology.uiswitches/" target="_blank"><code>UI Switches</code></a> </h4>
-  <details>
-    <summary>see more...</summary>
-
-    UI Switches
-    Give your iPhone a different look with UI Switches the UI family by MC Technology! Designed for UI lovers!
-    How to use UI Switches?  Install Snowboard and Snowboard UI extension from Spark’s repo.
-    Then activate the UI Switches from the Snowboard settings respring and enjoy :D !
-    Or use iThemer or Anemone for activation
-
-  </details> </td>
-</tr>
-
-<br />
-<br />
-
----
-
-<h3 align="center"><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
+<h3 align="center"> Languages que Utilizo:</h3>
+<br>
 <p align="center">
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-Vim-informational?style=flat&logo=vim&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-Markdown-informational?style=flat&logo=markdown&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a"/> </a>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </a>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </a>
+     <img src="	https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </a>
+      <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/> </a>
+    <img src="	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> </a>
+     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> </a>
+     <img src="	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </a>
+    </a>
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/> </a>
+     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitea"/> </a>
+    
 </p>
+<br>
 
----
-
-<h3 align="left"><img src="./src/youtube.gif" width="70px" height="25px"> latest Videos</h3>
-
-<!-- YOUTUBE:START -->
-- [Widgets en MacOS | MC Technology](https://www.youtube.com/watch?v=GLbsM1-rZno)
-- [Como crear un perfil de GitHub como un pro &lpar;Readme&rpar; | MC Technology](https://www.youtube.com/watch?v=D5PjhcH36Vc)
-- [Cómo instalar Windows 11 en VirtualBox | MC Technology](https://www.youtube.com/watch?v=J05qz-O4LLg)
-- [Como usar Git con GitManager | MC Technology](https://www.youtube.com/watch?v=vs5CvLQFYhg)
-- [Como crear un vimrc en MacOS y Linux | MC Technology](https://www.youtube.com/watch?v=wm9kbvhw-uI)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw)
-
----
-
-<h3 align="left"><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
-
+<h2 align="center"><center>GitHub Estadisticas</center></h2>
+<br>
+<center>
 <div>
   <a href="https://github.com/mctechnology17">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mctechnology17&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mctechnology17&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GOLFISHMANALEXIS&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GOLFISHMANALEXIS&layout=compact&langs_count=7&theme=radical"/>
 </div>
+</center>
 
-![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
+[instagram]: https://www.instagram.com/alexis._.vi/
+[facebook]: https://www.facebook.com/alezis.munos
 
 
-[twitter]: https://twitter.com/mctechnology17
-[youtube]: https://www.youtube.com/c/mctechnology17
-[instagram]: https://www.instagram.com/mctechnology17/
-[facebook]: https://m.facebook.com/mctechnology17/
-[reddit]:https://www.reddit.com/user/mctechnology17
-
-[vimtools]: https://github.com/mctechnology17/vimtools
-[jailbreakrepo]: https://mctechnology17.github.io/
-[uiglitch]: https://repo.packix.com/package/com.mctechnology.uiglitch/
-[uiswitches]: https://repo.packix.com/package/com.mctechnology.uiswitches/
-[gm]: https://github.com/mctechnology17/gm
-[youtuberepo]: https://github.com/mctechnology17/youtube_repo_mc_technology
+# GOLFISHMANALEXIS
