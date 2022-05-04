@@ -21,7 +21,7 @@
 - 🦾  Team-JavaScrip
 - 💻  Amooo el Clash Royale!
 - 👾  Soy programador desde hace dos años
-- 🗒   Actualmente estoy muy centrado en la Inteligencia Artificial
+- 🗒   Actualmente estoy muy centrado en la Inteligencia Artificial<br>no me sale pero se hace el intento😍🤙
 </details>
 
 <br>
